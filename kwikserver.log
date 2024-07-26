@@ -1,0 +1,5 @@
+24-07-23T14:32:57.550 Kwik server connector started on port 8082; supported application protocols: [h3]
+24-07-23T14:33:07.667 Creating new connection with version v1 for odcid 4c316ea18de389ff with 127.0.0.1: 09fd763ab98f91e3
+24-07-23T14:33:07.925 Discarding packet (46 bytes) that cannot be decrypted (Missing keys for encryption level Handshake (keys discarded))
+24-07-23T14:34:59.730 Closing ServerConnection[4c316ea18de389ff/09fd763ab98f91e3(V1) /127.0.0.1:50657] after 30045 ms of inactivity (idle timeout)
+24-07-23T14:34:59.743 Stats for connection 09fd763ab98f91e3: datagrams sent: 902391    packets send: 902392    bytes sent: 1111130488    data sent: 1071606990    efficieny: 96.4    packets lost: 10    smoothed RTT: 4    RTT var: 4    latest RTT: 2
